@@ -66,6 +66,8 @@
 
 #### Process Scheduling, `프로세스 스케쥴링` ☆☆☆
 
+<img src="Scheduling_비교.png"/>
+
 - CPU 사용하려고 하는 프로세스들 사이의 우선 순위를 관리하는 작업
 - 특정 프로세스가 적합하게 실행되도록 `프로세스 스케쥴링`에 의해 <br/>
 	프로세스 사이에서 CPU 교체가 발생한다.
@@ -107,13 +109,39 @@ Overhead
 - 단점: 짧은 작업을 수행하는 Process가 있다고 해도, 현 작업 시간이 길어도 <br/>
 		작업이 종료되기 전까지 대기한다.
 - **Non Preemptive Scheduling 유형**
-	- Priority (우선 순위)
-	- Deadline
-	- HRN (High Response Ratio Next)
-	- FCFS (First Come First Served)
-	- SJF (Shortcut Job First)
+	- **Priority (우선 순위)**
+		- 각 프로세스 별로 우선 순위가 주어지고, 우선 순위에 따라 CPU 할당
+		- 주요 긴급 프로세스에 대한 우선 처리
+		- 설정, 자원 상황 등에 따라 우선 순위를 선정한다.
+		
+	- **Deadline**
+		- 작업들이 명시된 시간이나 기한 내에 완료되도록 계획
+		- 요청에 명시된 시간 내 처리를 보장
+	
+	- **FCFS (First Come First Served)**
+		- 프로세스가 대기 큐에 도착한 순서에 따라 CPU 할당함.
+		- First In First Out 방식
+	
+	- **SJF (Shortest Job First)**
+		- 프로세스가 도착하는 시점에 따라 그 당시 가장 작은 서비스 시간을 갖는 <br/>
+			프로세스가 종료 시까지 자원을 점유한다.
+		- 준비 Queue 작업 중 가장 짧은 작업부터 수행, 평균 대기 시간 최소
+		- CPU 요구 시간이 긴 작업과 짧은 작업 간의 불평등 심함
+		- CPU 요구 시간이 긴 프로세스는 ***기아 현상***이 발생한다.
+	
+	- **HRN (High Response Ratio Next)**
+		- 대기 중인 프로세스 중 대기 시간이 긴 프로세스는 우선 순위를 높여서 <br/>
+			프로세스의 우선 순위를 결정하는 Scheduling 기법
+		- 서비스 받을 시간, 기다린 시간을 고려해서 가변적 우선 순위를 결정한다.
+		- 우선 순위 계산 식의 수치가 가장 높은 것부터 낮은 순으로 <br/>
+				우선 순위를 부여해서 SJF의 약점인 ***기아 현상*** 보완한 기법
+		- 긴 작업과 짧은 작업 간 지나친 불평등을 해소하는 기법
 
-<img src="Scheduling_비교.png"/>
+```
+기아 현상 (Starvation 현상)
+- 시스템 부하가 많아서 낮은 등급의 준비 Queue에 있는 
+	프로세스가 무한정 기다리는 현상
+```
 
 ---
 
