@@ -22,7 +22,7 @@
 - 하나의 Process는 여러 가지 event에 의해 일련의 서로 구분되는 상태 변화를 겪는다.
 - Process는 **생성 → 준비 → 실행 → 대기 → 완료** 상태를 가진다.
 
-<img src="Process_state.png"/>
+<img src="refImgs/Process_state.png"/>
 
 | 프로세스 상태                | 설명                                                                                                 |
 | ---------------------- | -------------------------------------------------------------------------------------------------- |
@@ -66,7 +66,7 @@
 
 #### Process Scheduling, `프로세스 스케쥴링` ☆☆☆
 
-<img src="Scheduling_비교.png"/>
+<img src="refImgs/Scheduling_비교.png"/>
 
 - CPU 사용하려고 하는 프로세스들 사이의 우선 순위를 관리하는 작업
 - 특정 프로세스가 적합하게 실행되도록 `프로세스 스케쥴링`에 의해 <br/>
@@ -185,7 +185,7 @@ Time Sharing System 시분할 시스템
 
 ##### 교착 상태 (Deadline)
 
-<img src="Process_deadline.png"/>
+<img src="refImgs/Process_deadline.png"/>
 
 - 다중 Processing 환경에서 2개 이상의 프로세스가 특정 자원 할당을 무한정 대기하는 상태
 - 이러한 교착 상태가 발생하는 조건은 다음과 같다.
