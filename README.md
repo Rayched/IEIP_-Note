@@ -4,16 +4,16 @@
 
 1. **응용 SW 기초 기술**
     - **(1). 운영체제 기초**
-        - [운영체제](/1.정보시스템_기반_기술/1.%20응용_SW_기초기술/1.운영체제_기초_활용/1_운영체제.md)
-        - [메모리 관리](/1.정보시스템_기반_기술/1.%20응용_SW_기초기술/1.운영체제_기초_활용/2_메모리_관리.md)
-        - [Process Scheduling](/1.정보시스템_기반_기술/1.%20응용_SW_기초기술/1.운영체제_기초_활용/3_Process_Scheduling.md)
-        - [Disk Scheduling](/1.정보시스템_기반_기술/1.%20응용_SW_기초기술/1.운영체제_기초_활용/4_Disk_Scheduling.md)
-        - [Shell Script](/1.정보시스템_기반_기술/1.%20응용_SW_기초기술/1.운영체제_기초_활용/5.%20Shell%20Script.md)
+        - [운영체제](/Part1_CS/Title1_CS_Basic/Sub1_OS/1_운영체제.md)
+        - [메모리 관리](/Part1_CS/Title1_CS_Basic/Sub1_OS/2_메모리_관리.md)
+        - [Process Scheduling](/Part1_CS/Title1_CS_Basic/Sub1_OS/3_Process_Scheduling.md)
+        - [Disk Scheduling](/Part1_CS/Title1_CS_Basic/Sub1_OS/4_Disk_Scheduling.md)
+        - [Shell Script](/Part1_CS/Title1_CS_Basic/Sub1_OS/5_Shell%20Script.md)
 
     - **(2). 네트워크 기초**
-        - [Protocol](/1.정보시스템_기반_기술/1.%20응용_SW_기초기술/2.네트워크_기초_활용/1.%20Protocol.md)
-        - [OSI 7 계층](/1.정보시스템_기반_기술/1.%20응용_SW_기초기술/2.네트워크_기초_활용/2.%20OSI%207계층.md)
-        - [Internet](/1.정보시스템_기반_기술/1.%20응용_SW_기초기술/2.네트워크_기초_활용/3.%20Internet.md)
+        - [Protocol](/Part1_CS/Title1_CS_Basic/Sub2_Network/Protocol.md)
+        - [OSI 7 계층](/Part1_CS/Title1_CS_Basic/Sub2_Network/OSI_7_Layer.md)
+        - [Internet](/Part1_CS/Title1_CS_Basic/Sub2_Network/Internet.md)
 
 
 2. **요구사항 확인**
