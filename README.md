@@ -53,3 +53,9 @@
     - **(3). 논리 데이터베이스 설계**
 
 2. **SQL 활용**
+
+---
+
+### 📔 Reference
+- [Github Repository](https://github.com/Rayched/IEIP_Note)
+- [수제비 - IT 커뮤니티 / 네이버 카페](https://cafe.naver.com/soojebi)
