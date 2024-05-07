@@ -17,6 +17,8 @@
 
 
 2. **요구사항 확인**
+    - [요구분석 기법](/Part1_CS/Title2_Requirements_Check/Requirements_Analysis.md)
+    - [UML](/Part1_CS/Title2_Requirements_Check/UML.md)
 3. **애플리케이션 설계**
 4. **테스트 및 배포**
 
