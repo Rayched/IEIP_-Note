@@ -33,10 +33,10 @@
 ---
 #### 선형 구조 / 스택 Stack
 
+<img src="refImgs/stack.png"/>
+
 - 한 방향으로만 자료를 넣고 꺼낼 수 있는 LIFO 형식의 자료구조
 - LIFO => Last In First Out, 마지막에 넣은 것이 먼저 나간다.
-
-<img src="stack.png"/>
 
 - 한 방향으로만 `PUSH`와 `POP` 이용하여 자료를 넣고 꺼낸다.
 - 스택의 가장 위에 있는 데이터는 `TOP`이라고 하며 <br/>
@@ -58,10 +58,11 @@
 
 #### 선형 구조 / 큐 Queue
 
+
+<img src="refImgs/Queue.png"/>
+
 - 한쪽 끝에서 삽입 작업이 이뤄지고, 반대쪽 끝에서는 삭제 작업이 이뤄지는 <br/>
 	First In First Out 형식의 자료구조를 말한다.
-
-<img src="Queue.png"/>
 
 - 한 방향에서는 `ENQUEUE` 연산을 이용하여 데이터 입력이 이뤄지고 <br/>
 	다른 쪽 방향에서는 `DEQUEUE` 연산을 이용하여 데이터 출력이 이루어진다.
