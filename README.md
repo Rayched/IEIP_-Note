@@ -28,12 +28,12 @@
 1. **프로그래밍 언어**
     - ***(1). 기본 문법 / 정리 X***
     - **(2). 언어 특성**
-        - [언어 특성](/2.프로그래밍_언어_활용/1.%20프로그래밍_언어/2.%20언어특성/언어특성.md)
+        - [언어 특성](/Part2_Programming/Title1_Programming_Basic/Sub2_Languages/언어특성.md)
 
     - **(3). 라이브러리**
-        - [라이브러리](/2.프로그래밍_언어_활용/1.%20프로그래밍_언어/3.%20라이브러리/라이브러리.md)
-        - [데이터 입/출력](/2.프로그래밍_언어_활용/1.%20프로그래밍_언어/3.%20라이브러리/데이터_입출력.md)
-        - [예외 처리](/2.프로그래밍_언어_활용/1.%20프로그래밍_언어/3.%20라이브러리/Exception_Handling.md)
+        - [라이브러리](/Part2_Programming/Title1_Programming_Basic/Sub3_Library/라이브러리.md)
+        - [데이터 입/출력](/Part2_Programming/Title1_Programming_Basic/Sub3_Library/데이터_입출력.md)
+        - [예외 처리](/Part2_Programming/Title1_Programming_Basic/Sub3_Library/Exception_Handling.md)
 
 2. **프로그램 구현**
 
@@ -44,11 +44,11 @@
 
 1. **데이터베이스 이해**
     - **(1). 데이터베이스 기초**
-        - [데이터베이스 기초](/3.데이터베이스_활용/1.Database_Basic/1.%20데이터베이스%20기초.md)
+        - [데이터베이스 기초](/Part3_Database/Title1_Database_Basic/Database_basic.md)
 
     - **(2). 논리 데이터 저장소 확인**
-        - [자료구조 Data Structure](/3.데이터베이스_활용/1.Database_Basic/2.%20Data_Structure.md)
-        - [알고리즘 Algorithm](/3.데이터베이스_활용/1.Database_Basic/3.%20Algorithm.md)
+        - [자료구조 Data Structure](/Part3_Database/Title1_Database_Basic/Data_Structure.md)
+        - [알고리즘 Algorithm](/Part3_Database/Title1_Database_Basic/Algorithm.md)
     
     - **(3). 논리 데이터베이스 설계**
 
