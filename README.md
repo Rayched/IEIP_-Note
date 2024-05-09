@@ -57,6 +57,7 @@
         - [알고리즘 Algorithm](/Part3_Database/Title1_Database_Basic/Algorithm.md)
     
     - **(3). 논리 데이터베이스 설계**
+        - [데이터 모델](/Part3_Database/Title1_Database_Basic/Data_Model.md)
 
 2. **SQL 활용**
 
