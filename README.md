@@ -59,7 +59,7 @@
     - **(3). 논리 데이터베이스 설계**
         - [데이터 모델](/Part3_Database/Title1_Database_Basic/Data_Model.md)
         - [관계 데이터 언어 / 시스템 카탈로그](/Part3_Database/Title1_Database_Basic/Relation_Data_Language.md)
-        - [데이터베이스 정규화]()
+        - [데이터베이스 정규화](/Part3_Database/Title1_Database_Basic/Database_Normalization.md)
 
 2. **SQL 활용**
 
