@@ -37,7 +37,13 @@
     - [소프트웨어 테스트]()
 
 2. **UI Test**
+    - [UI & UX](/Part1_CS/Title4_Test_Deployment/Sub2_UI_Test/UI_UX.md)
+    - [UI Test](/Part1_CS/Title4_Test_Deployment/Sub2_UI_Test/UI_Test.md)
+
 3. **Application 배포**
+    - [소스코드 검증 기법](/Part1_CS/Title4_Test_Deployment/Sub3_App_Deploy/Source_Code_Compile.md)
+    - [형상 관리](/Part1_CS/Title4_Test_Deployment/Sub3_App_Deploy/Configuration_Management.md)
+    - [Application Build](/Part1_CS/Title4_Test_Deployment/Sub3_App_Deploy/App_build.md)
 
 <hr/><br/>
 
