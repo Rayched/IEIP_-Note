@@ -22,12 +22,24 @@
 
 3. **애플리케이션 설계**
     - **(1). 공통 모듈 설계**
-    - **(2). 객체 지향 설계**
-    
-4. **테스트 및 배포**
+        - [공통 모듈](/Part1_CS/Title3_Application_Build/Sub1_Module/Modules.md)
+        - [설계 모델링](/Part1_CS/Title3_Application_Build/Sub1_Module/Design_Modeling.md)
+        - [소프트웨어 아키텍처](/Part1_CS/Title3_Application_Build/Sub1_Module/SW_Architecture.md)
 
----
-<br/>
+    - **(2). 객체 지향 설계**
+        - [객체 지향](/Part1_CS/Title3_Application_Build/Sub2_Object/Object_Oriented.md)
+        - [디자인 패턴](/Part1_CS/Title3_Application_Build/Sub2_Object/Design_Pattern.md)
+
+#### 4. 테스트 및 배포
+1. **Application Test**
+    - [IDE / 디버깅](/Part1_CS/Title4_Test_Deployment/Sub1_Application_Test/IDE_and_Debugging.md)
+    - [테스트 케이스 / 테스트 레벨](/Part1_CS/Title4_Test_Deployment/Sub1_Application_Test/Test_Level.md)
+    - [소프트웨어 테스트]()
+
+2. **UI Test**
+3. **Application 배포**
+
+<hr/><br/>
 
 ### 2. 프로그래밍 언어
 
