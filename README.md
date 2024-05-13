@@ -80,6 +80,11 @@
         - [데이터베이스 정규화](/Part3_Database/Title1_Database_Basic/Database_Normalization.md)
 
 2. **SQL 활용**
+	 - **(1). SQL 기본**
+		 - [SQL 기본](/Part3_Database/Title2_SQL/Sub1_SQL_Basic/SQL_Basic.md)
+		 - [Transaction](/Part3_Database/Title2_SQL/Sub1_SQL_Basic/Transaction.md)
+		 
+	 - **(2). SQL 심화**
 
 ---
 
