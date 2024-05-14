@@ -14,6 +14,7 @@
         - [Protocol](/Part1_CS/Title1_CS_Basic/Sub2_Network/Protocol.md)
         - [OSI 7 계층](/Part1_CS/Title1_CS_Basic/Sub2_Network/OSI_7_Layer.md)
         - [Internet](/Part1_CS/Title1_CS_Basic/Sub2_Network/Internet.md)
+        - [IP](/Part1_CS/Title1_CS_Basic/Sub2_Network/IP.md)
 
 
 2. **요구사항 확인**
