@@ -92,6 +92,7 @@
 		 - [Transaction](/Part3_Database/Title2_SQL/Sub1_SQL_Basic/Transaction.md)
 		 
 	 - **(2). SQL 심화**
+        - [View](/Part3_Database/Title2_SQL/Sub2_SQL_Deep/View.md)
 
 ---
 
